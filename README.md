@@ -32,6 +32,4 @@ https://discord.gg/4b7
 ~~~~~~~~~~~~~~~~~~~~~~
 g Dangerous.txt…]()
 
-# Jeff-Killer
-
-![Jeff-Killer}https://github.com/sCars-501/Jeff-Killer/blob/ef4c4a81bd8c9e7052b25f9e23a5c8061b3944f0/Jeff-Killer.jpg)
+![Jeff-Killer](https://raw.githubusercontent.com/sCars-501/Jeff-Killer/ba5c00460aa6a324867e8155c47cd4832d6c452c/Jeff-Killer.jpg)
