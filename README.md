@@ -12,12 +12,7 @@ For testing purposes, run it only inside a fully isolated virtual environment.
 
 ━━━━━━━━━━━━━━━━━━
 
-تم التصميم والتعديل بواسطة | Designed & Modified by
-
-SCARS 🩸
+# Jeff-Kiler
 
 
-[UploadinDangerous—do not run it on your primary device.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-خطير لاتشغله على جهازك الاساسي
 ![Jeff-Kiler](https://github.com/sCars-501/Jeff-Killer/blob/84fe23967cbd2e16af4b962f6b60688fc92d28c9/Jeff-Killer.jpg)
