@@ -20,5 +20,3 @@ SCARS 🩸
 [UploadinDangerous—do not run it on your primary device.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 خطير لاتشغله على جهازك الاساسي
-~~~~~~~~~~
-https://youtube.com/@c4.r
