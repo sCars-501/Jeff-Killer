@@ -20,4 +20,4 @@ SCARS 🩸
 [UploadinDangerous—do not run it on your primary device.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 خطير لاتشغله على جهازك الاساسي
-!{Jeff-Kiler](https://github.com/sCars-501/Jeff-Killer/blob/84fe23967cbd2e16af4b962f6b60688fc92d28c9/Jeff-Killer.jpg)
+![Jeff-Kiler](https://github.com/sCars-501/Jeff-Killer/blob/84fe23967cbd2e16af4b962f6b60688fc92d28c9/Jeff-Killer.jpg)
