@@ -1,4 +1,4 @@
-🩸 ⚠️ تحذير هام | IMPORTANT WARNING ⚠️
+[Dangerous.txt](https://github.com/user-attachments/files/33588524/Dangerous.txt)🩸 ⚠️ تحذير هام | IMPORTANT WARNING ⚠️
 
 🔴 العربية 🇸🇦
 هذا الملف عبارة عن فايروس خطير وقد يسبب أضرارًا لجهازك.
@@ -15,3 +15,19 @@ For testing purposes, run it only inside a fully isolated virtual environment.
 تم التصميم والتعديل بواسطة | Designed & Modified by
 
 SCARS 🩸
+
+
+[UploadinDangerous—do not run it on your primary device.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+خطير لاتشغله على جهازك الاساسي          ScArS           |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GroupM4R7H
+~~~~~~~~~~
+WeBsiite
+~~~~~~~~~~
+https://youtube.com/@c.4r
+~~~~~~~~~~~~~~~~~~~~~~~~~
+https://discord.gg/4b7
+~~~~~~~~~~~~~~~~~~~~~~
+g Dangerous.txt…]()
