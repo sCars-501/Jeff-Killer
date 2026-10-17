@@ -31,5 +31,3 @@ https://youtube.com/@c.4r
 https://discord.gg/4b7
 ~~~~~~~~~~~~~~~~~~~~~~
 g Dangerous.txt…]()
-
-![Jeff-Killer](https://raw.githubusercontent.com/sCars-501/Jeff-Killer/ba5c00460aa6a324867e8155c47cd4832d6c452c/Jeff-Killer.jpg)
