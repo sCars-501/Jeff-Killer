@@ -19,15 +19,6 @@ SCARS 🩸
 
 [UploadinDangerous—do not run it on your primary device.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-خطير لاتشغله على جهازك الاساسي          ScArS           |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-GroupM4R7H
+خطير لاتشغله على جهازك الاساسي
 ~~~~~~~~~~
-WeBsiite
-~~~~~~~~~~
-https://youtube.com/@c.4r
-~~~~~~~~~~~~~~~~~~~~~~~~~
-https://discord.gg/4b7
-~~~~~~~~~~~~~~~~~~~~~~
-g Dangerous.txt…]()
+https://youtube.com/@c4.r
